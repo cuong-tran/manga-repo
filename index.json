@@ -7070,13 +7070,13 @@
         "name": "Webtoons.com",
         "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-0/tachiyomi-all.webtoons-v1.4.57.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-all.webtoons-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/webtoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-0/tachiyomi-all.webtoons-v1.4.57.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-all.webtoons-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104057",
-        "versionName": "1.4.57",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -7169,13 +7169,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-0/tachiyomi-all.xcomic-v1.6.7.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-all.xcomic-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/69c5b68/tachiyomi-all.xcomic-v1.6.7.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-all.xcomic-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11312,13 +11312,13 @@
         "name": "Dynasty Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.dynasty",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-0/tachiyomi-en.dynasty-v1.4.31.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-en.dynasty-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/dynasty/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-0/tachiyomi-en.dynasty-v1.4.31.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-en.dynasty-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104031",
-        "versionName": "1.4.31",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11459,13 +11459,13 @@
         "name": "emaqi",
         "packageName": "eu.kanade.tachiyomi.extension.en.emaqi",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-0/tachiyomi-en.emaqi-v1.4.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-en.emaqi-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/emaqi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-0/tachiyomi-en.emaqi-v1.4.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-en.emaqi-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -16345,13 +16345,13 @@
         "name": "Nuvia Toon",
         "packageName": "eu.kanade.tachiyomi.extension.en.nuviatoon",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-0/tachiyomi-en.nuviatoon-v1.4.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-en.nuviatoon-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/nuviatoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-1/tachiyomi-en.nuviatoon-v1.4.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-en.nuviatoon-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -19909,13 +19909,13 @@
         "name": "Ikigai Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-1/tachiyomi-es.ikigaimangas-v1.6.38.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-es.ikigaimangas-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/226b9f1/tachiyomi-es.ikigaimangas-v1.6.38.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-es.ikigaimangas-v1.6.39.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106038",
-        "versionName": "1.6.38",
+        "versionCode": "106039",
+        "versionName": "1.6.39",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21538,13 +21538,13 @@
         "name": "BigSolo",
         "packageName": "eu.kanade.tachiyomi.extension.fr.bigsolo",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-1/tachiyomi-fr.bigsolo-v1.4.5.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-fr.bigsolo-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/fr/bigsolo/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-1/tachiyomi-fr.bigsolo-v1.4.5.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-fr.bigsolo-v1.6.6.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104005",
-        "versionName": "1.4.5",
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -23785,13 +23785,13 @@
         "name": "Narasi Ninja",
         "packageName": "eu.kanade.tachiyomi.extension.id.narasininja",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-1/tachiyomi-id.narasininja-v1.4.2.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-id.narasininja-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/id/narasininja/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-1/tachiyomi-id.narasininja-v1.4.2.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-id.narasininja-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -23995,13 +23995,13 @@
         "name": "Pramramadhan",
         "packageName": "eu.kanade.tachiyomi.extension.id.pramramadhan",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a3fd211-1/tachiyomi-id.pramramadhan-v1.4.2.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-id.pramramadhan-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/id/pramramadhan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-1/tachiyomi-id.pramramadhan-v1.4.2.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-id.pramramadhan-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24268,13 +24268,13 @@
         "name": "TheManga",
         "packageName": "eu.kanade.tachiyomi.extension.id.themanga",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a3fd211-1/tachiyomi-id.themanga-v1.4.49.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-id.themanga-v1.6.50.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/id/themanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-1/tachiyomi-id.themanga-v1.4.49.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-id.themanga-v1.6.50.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104049",
-        "versionName": "1.4.49",
+        "extensionLib": "1.6",
+        "versionCode": "106050",
+        "versionName": "1.6.50",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24352,13 +24352,13 @@
         "name": "Wurmz",
         "packageName": "eu.kanade.tachiyomi.extension.id.wurmz",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-1/tachiyomi-id.wurmz-v1.4.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-id.wurmz-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/id/wurmz/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b75db63/tachiyomi-id.wurmz-v1.4.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-id.wurmz-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -25576,13 +25576,13 @@
         "name": "GANMA!",
         "packageName": "eu.kanade.tachiyomi.extension.ja.ganma",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-1/tachiyomi-ja.ganma-v1.4.5.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ja.ganma-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ja/ganma/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-1/tachiyomi-ja.ganma-v1.4.5.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ja.ganma-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104005",
-        "versionName": "1.4.5",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -26416,13 +26416,13 @@
         "name": "Manga Saison",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangasaison",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-1/tachiyomi-ja.mangasaison-v1.4.2.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ja.mangasaison-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ja/mangasaison/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-1/tachiyomi-ja.mangasaison-v1.4.2.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ja.mangasaison-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27172,14 +27172,14 @@
         "name": "U-NEXT",
         "packageName": "eu.kanade.tachiyomi.extension.ja.unext",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-ja.unext-v1.4.4.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ja.unext-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ja/unext/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-ja.unext-v1.4.4.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ja.unext-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1896940876613282856",
@@ -28924,13 +28924,13 @@
         "name": "Mediocre Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-pt.mediocretoons-v1.4.20.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-pt.mediocretoons-v1.4.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/pt/mediocretoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-pt.mediocretoons-v1.4.20.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-pt.mediocretoons-v1.4.21.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104020",
-        "versionName": "1.4.20",
+        "versionCode": "104021",
+        "versionName": "1.4.21",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -29824,27 +29824,6 @@
         ]
       },
       {
-        "name": "Wolftoon",
-        "packageName": "eu.kanade.tachiyomi.extension.pt.wolftoon",
-        "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-pt.wolftoon-v1.4.5.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/pt/wolftoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-pt.wolftoon-v1.4.5.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104005",
-        "versionName": "1.4.5",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "2666797837434784507",
-            "name": "Wolftoon",
-            "language": "pt-BR",
-            "homeUrl": "https://wolftoon.lovable.app"
-          }
-        ]
-      },
-      {
         "name": "XXX Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
         "resources": {
@@ -29995,13 +29974,13 @@
         "name": "AllHentai",
         "packageName": "eu.kanade.tachiyomi.extension.ru.allhentai",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-ru.allhentai-v1.6.68.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.allhentai-v1.6.69.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/allhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-ru.allhentai-v1.6.68.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.allhentai-v1.6.69.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106068",
-        "versionName": "1.6.68",
+        "versionCode": "106069",
+        "versionName": "1.6.69",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -30293,13 +30272,13 @@
         "name": "MintManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.mintmanga",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-ru.mintmanga-v1.6.89.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.mintmanga-v1.6.90.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/mintmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-ru.mintmanga-v1.6.89.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.mintmanga-v1.6.90.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106089",
-        "versionName": "1.6.89",
+        "versionCode": "106090",
+        "versionName": "1.6.90",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30377,13 +30356,13 @@
         "name": "ReadManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.readmanga",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-ru.readmanga-v1.6.90.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.readmanga-v1.6.91.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/readmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-ru.readmanga-v1.6.90.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.readmanga-v1.6.91.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106090",
-        "versionName": "1.6.90",
+        "versionCode": "106091",
+        "versionName": "1.6.91",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -30398,13 +30377,13 @@
         "name": "SeiManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.seimanga",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-ru.seimanga-v1.6.43.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.seimanga-v1.6.44.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/seimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-ru.seimanga-v1.6.43.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.seimanga-v1.6.44.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106043",
-        "versionName": "1.6.43",
+        "versionCode": "106044",
+        "versionName": "1.6.44",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30419,13 +30398,13 @@
         "name": "SelfManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.selfmanga",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-ru.selfmanga-v1.6.65.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.selfmanga-v1.6.66.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/selfmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-ru.selfmanga-v1.6.65.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.selfmanga-v1.6.66.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106065",
-        "versionName": "1.6.65",
+        "versionCode": "106066",
+        "versionName": "1.6.66",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -30532,13 +30511,13 @@
         "name": "Usagi",
         "packageName": "eu.kanade.tachiyomi.extension.ru.usagi",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-ru.usagi-v1.6.43.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.usagi-v1.6.44.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/usagi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-ru.usagi-v1.6.43.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-ru.usagi-v1.6.44.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106043",
-        "versionName": "1.6.43",
+        "versionCode": "106044",
+        "versionName": "1.6.44",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31057,13 +31036,13 @@
         "name": "MikuDoujin",
         "packageName": "eu.kanade.tachiyomi.extension.th.mikudoujin",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a3fd211-2/tachiyomi-th.mikudoujin-v1.4.7.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-th.mikudoujin-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/th/mikudoujin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-th.mikudoujin-v1.4.7.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-th.mikudoujin-v1.6.8.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104007",
-        "versionName": "1.4.7",
+        "extensionLib": "1.6",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -33245,20 +33224,20 @@
         "name": "DamCoNuong",
         "packageName": "eu.kanade.tachiyomi.extension.vi.damconuong",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-vi.damconuong-v1.6.11.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.damconuong-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/damconuong/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/27c745d/tachiyomi-vi.damconuong-v1.6.11.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.damconuong-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106011",
-        "versionName": "1.6.11",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "2680345917627448572",
             "name": "DamCoNuong",
             "language": "vi",
-            "homeUrl": "https://damconuong.uno"
+            "homeUrl": "https://damconuong.name"
           }
         ]
       },
@@ -33791,20 +33770,20 @@
         "name": "MeTruyen18",
         "packageName": "eu.kanade.tachiyomi.extension.vi.metruyen18",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-vi.metruyen18-v1.6.57.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.metruyen18-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/metruyen18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/e0e3e28/tachiyomi-vi.metruyen18-v1.6.57.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.metruyen18-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106057",
-        "versionName": "1.6.57",
+        "versionCode": "106058",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "6662865328420899419",
             "name": "MeTruyen18",
             "language": "vi",
-            "homeUrl": "https://metruyen18.vip"
+            "homeUrl": "https://metruyen18.pro"
           }
         ]
       },
@@ -33887,13 +33866,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-vi.moetruyen-v1.6.13.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.moetruyen-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/7aef306/tachiyomi-vi.moetruyen-v1.6.13.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.moetruyen-v1.6.14.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106013",
-        "versionName": "1.6.13",
+        "versionCode": "106014",
+        "versionName": "1.6.14",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -34269,20 +34248,20 @@
         "name": "ThienThaiTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.thienthaitruyen",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-vi.thienthaitruyen-v1.6.8.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.thienthaitruyen-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/thienthaitruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/27c745d/tachiyomi-vi.thienthaitruyen-v1.6.8.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.thienthaitruyen-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4424472966200672277",
             "name": "ThienThaiTruyen",
             "language": "vi",
-            "homeUrl": "https://thienthaitruyen14.com"
+            "homeUrl": "https://thienthaitruyen15.com"
           }
         ]
       },
@@ -34311,20 +34290,20 @@
         "name": "Top Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-vi.toptruyen-v1.6.45.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.toptruyen-v1.6.46.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/27c745d/tachiyomi-vi.toptruyen-v1.6.45.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.toptruyen-v1.6.46.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106045",
-        "versionName": "1.6.45",
+        "versionCode": "106046",
+        "versionName": "1.6.46",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1166901607721102706",
             "name": "Top Truyen",
             "language": "vi",
-            "homeUrl": "https://www.toptruyenzonee.com"
+            "homeUrl": "https://www.toptruyenzonek.com"
           }
         ]
       },
@@ -34735,20 +34714,20 @@
         "name": "VinaHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-vi.vinahentai-v1.6.16.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.vinahentai-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/vinahentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/69c5b68/tachiyomi-vi.vinahentai-v1.6.16.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-vi.vinahentai-v1.6.17.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106016",
-        "versionName": "1.6.16",
+        "versionCode": "106017",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4572372176917567711",
             "name": "VinaHentai",
             "language": "vi",
-            "homeUrl": "https://vinahentai.click"
+            "homeUrl": "https://vinahentai.help"
           }
         ]
       },
@@ -34997,13 +34976,13 @@
         "name": "Cartoon18",
         "packageName": "eu.kanade.tachiyomi.extension.zh.cartoon18",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a3fd211-2/tachiyomi-zh.cartoon18-v1.4.4.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-zh.cartoon18-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/zh/cartoon18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-zh.cartoon18-v1.4.4.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-zh.cartoon18-v1.6.5.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -35674,6 +35653,27 @@
         ]
       },
       {
+        "name": "Manhua160",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.mh160",
+        "resources": {
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-zh.mh160-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/zh/mh160/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-zh.mh160-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8202483679232242177",
+            "name": "\u6f2b\u753b160",
+            "language": "zh",
+            "homeUrl": "https://www.mh160mh.com"
+          }
+        ]
+      },
+      {
         "name": "Miaoqu Manhua",
         "packageName": "eu.kanade.tachiyomi.extension.zh.miaoqu",
         "resources": {
@@ -35787,24 +35787,20 @@
         "name": "Roumanwu",
         "packageName": "eu.kanade.tachiyomi.extension.zh.roumanwu",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-zh.roumanwu-v1.6.21.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-zh.roumanwu-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/zh/roumanwu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b75db63/tachiyomi-zh.roumanwu-v1.6.21.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0c85a2a/tachiyomi-zh.roumanwu-v1.6.22.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106021",
-        "versionName": "1.6.21",
+        "versionCode": "106022",
+        "versionName": "1.6.22",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "3647420805839021718",
             "name": "\u8089\u6f2b\u5c4b",
             "language": "zh",
-            "homeUrl": "https://rouman5.com",
-            "mirrorUrls": [
-              "https://rouman5.com",
-              "https://roum29.xyz"
-            ]
+            "homeUrl": "https://rouman5.com"
           }
         ]
       },
