@@ -691,6 +691,27 @@
         ]
       },
       {
+        "name": "DB New Hope",
+        "packageName": "eu.kanade.tachiyomi.extension.all.dbnewhope",
+        "resources": {
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-all.dbnewhope-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/dbnewhope/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-all.dbnewhope-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "909008906078523978",
+            "name": "DB New Hope",
+            "language": "all",
+            "homeUrl": "https://dbnewhope.com"
+          }
+        ]
+      },
+      {
         "name": "DeviantArt",
         "packageName": "eu.kanade.tachiyomi.extension.all.deviantart",
         "resources": {
@@ -2719,20 +2740,20 @@
         "name": "Kodoku Studio",
         "packageName": "eu.kanade.tachiyomi.extension.all.kodokustudio",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-all.kodokustudio-v1.6.55.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-all.kodokustudio-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/kodokustudio/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-all.kodokustudio-v1.6.55.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-all.kodokustudio-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "1835150489344342556",
+            "id": "4730948540511990292",
             "name": "Kodoku Studio",
             "language": "all",
-            "homeUrl": "https://kodokustudio.com"
+            "homeUrl": "https://kodokueasyaccess.com"
           }
         ]
       },
@@ -10345,9 +10366,9 @@
         "name": "Art Lapsa",
         "packageName": "eu.kanade.tachiyomi.extension.en.artlapsa",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.artlapsa-v1.6.29.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.artlapsa-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/artlapsa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.artlapsa-v1.6.29.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.artlapsa-v1.6.29.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106029",
@@ -10429,9 +10450,9 @@
         "name": "Asmodeus Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.asmotoon",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.asmotoon-v1.6.25.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.asmotoon-v1.6.25.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/asmotoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.asmotoon-v1.6.25.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.asmotoon-v1.6.25.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106025",
@@ -11080,13 +11101,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/9d09a32/tachiyomi-en.comix-v1.6.44.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.comix-v1.6.45.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/9d09a32/tachiyomi-en.comix-v1.6.44.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.comix-v1.6.45.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106044",
-        "versionName": "1.6.44",
+        "versionCode": "106045",
+        "versionName": "1.6.45",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11672,9 +11693,9 @@
         "name": "Eris Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.erisscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.erisscans-v1.6.22.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.erisscans-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/erisscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.erisscans-v1.6.22.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.erisscans-v1.6.22.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106022",
@@ -12092,9 +12113,9 @@
         "name": "Grim Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.grimscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.grimscans-v1.6.22.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.grimscans-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/grimscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.grimscans-v1.6.22.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.grimscans-v1.6.22.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106022",
@@ -12911,9 +12932,9 @@
         "name": "Kaizen Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.kaizenscan",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.kaizenscan-v1.6.22.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.kaizenscan-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/kaizenscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.kaizenscan-v1.6.22.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.kaizenscan-v1.6.22.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106022",
@@ -13043,9 +13064,9 @@
         "name": "Kewn Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.kewnscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.kewnscans-v1.6.23.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.kewnscans-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/kewnscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.kewnscans-v1.6.23.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.kewnscans-v1.6.23.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106023",
@@ -13148,9 +13169,9 @@
         "name": "Kitsune Dawn",
         "packageName": "eu.kanade.tachiyomi.extension.en.kitsunedawn",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/21c49ca/tachiyomi-en.kitsunedawn-v1.6.22.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.kitsunedawn-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/kitsunedawn/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/21c49ca/tachiyomi-en.kitsunedawn-v1.6.22.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.kitsunedawn-v1.6.22.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106022",
@@ -13505,20 +13526,20 @@
         "name": "Luna Toons",
         "packageName": "eu.kanade.tachiyomi.extension.en.lunatoons",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.lunatoons-v1.6.22.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.lunatoons-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/lunatoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.lunatoons-v1.6.22.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.lunatoons-v1.6.23.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106022",
-        "versionName": "1.6.22",
+        "versionCode": "106023",
+        "versionName": "1.6.23",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "1950516905235913490",
+            "id": "4513668905743562887",
             "name": "Luna Toons",
             "language": "en",
-            "homeUrl": "https://lunatoons.org"
+            "homeUrl": "https://lunatoons.net"
           }
         ]
       },
@@ -16197,9 +16218,9 @@
         "name": "MeiToon",
         "packageName": "eu.kanade.tachiyomi.extension.en.meitoon",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.meitoon-v1.6.22.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.meitoon-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/meitoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.meitoon-v1.6.22.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.meitoon-v1.6.22.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106022",
@@ -16260,9 +16281,9 @@
         "name": "Mist Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.mistscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.mistscans-v1.6.23.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.mistscans-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/mistscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.mistscans-v1.6.23.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.mistscans-v1.6.23.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106023",
@@ -16596,9 +16617,9 @@
         "name": "Nyanu Kafe",
         "packageName": "eu.kanade.tachiyomi.extension.en.nyanukafe",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.nyanukafe-v1.6.23.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.nyanukafe-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/nyanukafe/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.nyanukafe-v1.6.23.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.nyanukafe-v1.6.23.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106023",
@@ -16617,9 +16638,9 @@
         "name": "Nyra Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.nyrascans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.nyrascans-v1.6.22.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.nyrascans-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/nyrascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.nyrascans-v1.6.22.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.nyrascans-v1.6.22.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106022",
@@ -17671,9 +17692,9 @@
         "name": "RitharScans",
         "packageName": "eu.kanade.tachiyomi.extension.en.ritharscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/39e8e5b/tachiyomi-en.ritharscans-v1.6.27.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.ritharscans-v1.6.27.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/ritharscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/39e8e5b/tachiyomi-en.ritharscans-v1.6.27.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.ritharscans-v1.6.27.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106027",
@@ -17986,13 +18007,13 @@
         "name": "Siren Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.sirenscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/e8339a9/tachiyomi-en.sirenscans-v1.6.22.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.sirenscans-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/sirenscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/e8339a9/tachiyomi-en.sirenscans-v1.6.22.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.sirenscans-v1.6.23.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106022",
-        "versionName": "1.6.22",
+        "versionCode": "106023",
+        "versionName": "1.6.23",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -18180,9 +18201,9 @@
         "name": "Genz Toons",
         "packageName": "eu.kanade.tachiyomi.extension.en.suryascans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.suryascans-v1.6.55.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.suryascans-v1.6.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/suryascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.suryascans-v1.6.55.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.suryascans-v1.6.55.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106055",
@@ -18327,13 +18348,13 @@
         "name": "The Blank",
         "packageName": "eu.kanade.tachiyomi.extension.en.theblank",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ef9a42b/tachiyomi-en.theblank-v1.6.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.theblank-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ef9a42b/tachiyomi-en.theblank-v1.6.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.theblank-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -18432,9 +18453,9 @@
         "name": "TimelessToons",
         "packageName": "eu.kanade.tachiyomi.extension.en.timelesstoons",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.timelesstoons-v1.6.23.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.timelesstoons-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/timelesstoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.timelesstoons-v1.6.23.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.timelesstoons-v1.6.23.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106023",
@@ -19068,9 +19089,9 @@
         "name": "Writer Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.writerscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.writerscans-v1.6.22.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.writerscans-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/writerscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-en.writerscans-v1.6.22.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-en.writerscans-v1.6.22.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106022",
@@ -21883,13 +21904,13 @@
         "name": "Epsilon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.epsilonscan",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ef9a42b/tachiyomi-fr.epsilonscan-v1.6.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-fr.epsilonscan-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/fr/epsilonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ef9a42b/tachiyomi-fr.epsilonscan-v1.6.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-fr.epsilonscan-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22702,9 +22723,9 @@
         "name": "Siren Scans FR",
         "packageName": "eu.kanade.tachiyomi.extension.fr.sirenscansfr",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-fr.sirenscansfr-v1.6.22.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-fr.sirenscansfr-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/fr/sirenscansfr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-fr.sirenscansfr-v1.6.22.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-fr.sirenscansfr-v1.6.22.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106022",
@@ -22723,13 +22744,13 @@
         "name": "Soft Epsilon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.softepsilonscan",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ef9a42b/tachiyomi-fr.softepsilonscan-v1.6.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-fr.softepsilonscan-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/fr/softepsilonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ef9a42b/tachiyomi-fr.softepsilonscan-v1.6.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-fr.softepsilonscan-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -29962,13 +29983,13 @@
         "name": "Lura Toon",
         "packageName": "eu.kanade.tachiyomi.extension.pt.randomscan",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a3fd211-2/tachiyomi-pt.randomscan-v1.4.59.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-pt.randomscan-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/pt/randomscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-pt.randomscan-v1.4.59.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-pt.randomscan-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104059",
-        "versionName": "1.4.59",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -34094,20 +34115,20 @@
         "name": "Dua Leo Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-2/tachiyomi-vi.dualeotruyen-v1.6.29.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.dualeotruyen-v1.6.30.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/dualeotruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/7aef306/tachiyomi-vi.dualeotruyen-v1.6.29.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.dualeotruyen-v1.6.30.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106029",
-        "versionName": "1.6.29",
+        "versionCode": "106030",
+        "versionName": "1.6.30",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "1039830224122325226",
             "name": "D\u01b0a Leo Truy\u1ec7n",
             "language": "vi",
-            "homeUrl": "https://dualeotruyenwk.com"
+            "homeUrl": "https://dualeotruyenvie.com"
           }
         ]
       },
@@ -34199,13 +34220,13 @@
         "name": "CBHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-vi.hentaicube-v1.6.94.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.hentaicube-v1.6.95.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/hentaicube/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6919626/tachiyomi-vi.hentaicube-v1.6.94.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.hentaicube-v1.6.95.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106094",
-        "versionName": "1.6.94",
+        "versionCode": "106095",
+        "versionName": "1.6.95",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -34451,9 +34472,9 @@
         "name": "LXManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/9d09a32/tachiyomi-vi.lxhentai-v1.6.40.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.lxhentai-v1.6.40.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/9d09a32/tachiyomi-vi.lxhentai-v1.6.40.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.lxhentai-v1.6.40.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106040",
@@ -34493,13 +34514,13 @@
         "name": "MeDamTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.medamtruyen",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a63b243/tachiyomi-vi.medamtruyen-v1.6.9.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.medamtruyen-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/medamtruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/64148df/tachiyomi-vi.medamtruyen-v1.6.9.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.medamtruyen-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -34673,13 +34694,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/9d09a32/tachiyomi-vi.moetruyen-v1.6.18.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.moetruyen-v1.6.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/9d09a32/tachiyomi-vi.moetruyen-v1.6.18.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.moetruyen-v1.6.19.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106018",
-        "versionName": "1.6.18",
+        "versionCode": "106019",
+        "versionName": "1.6.19",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -34887,13 +34908,13 @@
         "name": "Panomic",
         "packageName": "eu.kanade.tachiyomi.extension.vi.panomic",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/153de44/tachiyomi-vi.panomic-v1.6.7.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.panomic-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/panomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/153de44/tachiyomi-vi.panomic-v1.6.7.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.panomic-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -35013,13 +35034,13 @@
         "name": "SoaiCaComic",
         "packageName": "eu.kanade.tachiyomi.extension.vi.soaicacomic",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a63b243/tachiyomi-vi.soaicacomic-v1.6.5.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.soaicacomic-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/soaicacomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/64148df/tachiyomi-vi.soaicacomic-v1.6.5.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.soaicacomic-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -35034,13 +35055,13 @@
         "name": "Team Lanh Lung",
         "packageName": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a63b243/tachiyomi-vi.teamlanhlung-v1.6.39.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.teamlanhlung-v1.6.40.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/teamlanhlung/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/64148df/tachiyomi-vi.teamlanhlung-v1.6.39.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-vi.teamlanhlung-v1.6.40.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106039",
-        "versionName": "1.6.39",
+        "versionCode": "106040",
+        "versionName": "1.6.40",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -36358,20 +36379,20 @@
         "name": "Manhuaren",
         "packageName": "eu.kanade.tachiyomi.extension.zh.manhuaren",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a3fd211-2/tachiyomi-zh.manhuaren-v1.4.19.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-zh.manhuaren-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/zh/manhuaren/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-2/tachiyomi-zh.manhuaren-v1.4.19.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/056cdcb/tachiyomi-zh.manhuaren-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104019",
-        "versionName": "1.4.19",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "3616827811449702173",
             "name": "\u6f2b\u753b\u4eba",
             "language": "zh",
-            "homeUrl": "http://mangaapi.manhuaren.com"
+            "homeUrl": "https://mangaapi.manhuaren.com"
           }
         ]
       },
