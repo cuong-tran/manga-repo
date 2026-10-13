@@ -11101,13 +11101,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/d823cab/tachiyomi-en.comix-v1.6.47.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/012abe1/tachiyomi-en.comix-v1.6.48.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/d823cab/tachiyomi-en.comix-v1.6.47.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/012abe1/tachiyomi-en.comix-v1.6.48.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106047",
-        "versionName": "1.6.47",
+        "versionCode": "106048",
+        "versionName": "1.6.48",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
