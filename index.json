@@ -2536,13 +2536,13 @@
         "name": "Kagane",
         "packageName": "eu.kanade.tachiyomi.extension.all.kagane",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2d4cf2/tachiyomi-all.kagane-v1.6.35.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-all.kagane-v1.6.36.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2d4cf2/tachiyomi-all.kagane-v1.6.35.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-all.kagane-v1.6.36.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106035",
-        "versionName": "1.6.35",
+        "versionCode": "106036",
+        "versionName": "1.6.36",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -2830,13 +2830,13 @@
         "name": "SchaleNetwork",
         "packageName": "eu.kanade.tachiyomi.extension.all.koharu",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/43dc20a/tachiyomi-all.koharu-v1.6.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-all.koharu-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/schalenetwork/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/4d19aec/tachiyomi-all.koharu-v1.6.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-all.koharu-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -9527,13 +9527,13 @@
         "name": "3asq",
         "packageName": "eu.kanade.tachiyomi.extension.ar.manga3asq",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/d823cab/tachiyomi-ar.manga3asq-v1.6.59.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-ar.manga3asq-v1.6.60.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ar/manga3asq/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/d823cab/tachiyomi-ar.manga3asq-v1.6.59.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-ar.manga3asq-v1.6.60.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106059",
-        "versionName": "1.6.59",
+        "versionCode": "106060",
+        "versionName": "1.6.60",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -14015,13 +14015,13 @@
         "name": "Manga-Bay",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangabay",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0a1e21a/tachiyomi-en.mangabay-v1.6.2.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-en.mangabay-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/mangabay/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0a1e21a/tachiyomi-en.mangabay-v1.6.2.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-en.mangabay-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22017,13 +22017,13 @@
         "name": "FMTEAM",
         "packageName": "eu.kanade.tachiyomi.extension.fr.fmteam",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/062bab1-1/tachiyomi-fr.fmteam-v1.6.8.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-fr.fmteam-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/fr/fmteam/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/04250b1-1/tachiyomi-fr.fmteam-v1.6.8.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-fr.fmteam-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -36099,13 +36099,13 @@
         "name": "Hikarinagi",
         "packageName": "eu.kanade.tachiyomi.extension.zh.hikarinagi",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/0a1e21a/tachiyomi-zh.hikarinagi-v1.6.3.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-zh.hikarinagi-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/zh/hikarinagi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/9096fca/tachiyomi-zh.hikarinagi-v1.6.3.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3f2147f/tachiyomi-zh.hikarinagi-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
