@@ -6136,13 +6136,13 @@
         "name": "Photos18",
         "packageName": "eu.kanade.tachiyomi.extension.all.photos18",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.photos18-v1.4.7.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/48b9355/tachiyomi-all.photos18-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/photos18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.photos18-v1.4.7.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/48b9355/tachiyomi-all.photos18-v1.6.6.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104007",
-        "versionName": "1.4.7",
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
