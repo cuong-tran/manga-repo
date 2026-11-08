@@ -1015,13 +1015,13 @@
         "name": "Elite Babes",
         "packageName": "eu.kanade.tachiyomi.extension.all.elitebabes",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.elitebabes-v1.4.5.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.elitebabes-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/elitebabes/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.elitebabes-v1.4.5.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.elitebabes-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104005",
-        "versionName": "1.4.5",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1078,13 +1078,13 @@
         "name": "Femjoy Hunter",
         "packageName": "eu.kanade.tachiyomi.extension.all.femjoyhunter",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.femjoyhunter-v1.4.4.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.femjoyhunter-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/femjoyhunter/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.femjoyhunter-v1.4.4.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.femjoyhunter-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1207,13 +1207,13 @@
         "name": "FTV Hunter",
         "packageName": "eu.kanade.tachiyomi.extension.all.ftvhunter",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.ftvhunter-v1.4.4.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.ftvhunter-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/ftvhunter/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.ftvhunter-v1.4.4.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.ftvhunter-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2491,13 +2491,13 @@
         "name": "Joymii Hub",
         "packageName": "eu.kanade.tachiyomi.extension.all.joymiihub",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.joymiihub-v1.4.4.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.joymiihub-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/joymiihub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.joymiihub-v1.4.4.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.joymiihub-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -5245,13 +5245,13 @@
         "name": "Metart Hunter",
         "packageName": "eu.kanade.tachiyomi.extension.all.metarthunter",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.metarthunter-v1.4.4.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.metarthunter-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/metarthunter/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.metarthunter-v1.4.4.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.metarthunter-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -6202,13 +6202,13 @@
         "name": "Playmate Hunter",
         "packageName": "eu.kanade.tachiyomi.extension.all.playmatehunter",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.playmatehunter-v1.4.4.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.playmatehunter-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/playmatehunter/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.playmatehunter-v1.4.4.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.playmatehunter-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -6976,13 +6976,13 @@
         "name": "XArt Hunter",
         "packageName": "eu.kanade.tachiyomi.extension.all.xarthunter",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.xarthunter-v1.4.4.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.xarthunter-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/xarthunter/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.xarthunter-v1.4.4.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/b6f348b/tachiyomi-all.xarthunter-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
