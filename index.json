@@ -291,13 +291,13 @@
         "name": "3600000 Beauty",
         "packageName": "eu.kanade.tachiyomi.extension.all.beauty3600000",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.beauty3600000-v1.4.6.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/e3c3a48/tachiyomi-all.beauty3600000-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/beauty3600000/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.beauty3600000-v1.4.6.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/e3c3a48/tachiyomi-all.beauty3600000-v1.6.7.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104006",
-        "versionName": "1.4.6",
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
