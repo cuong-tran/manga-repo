@@ -288,27 +288,6 @@
         ]
       },
       {
-        "name": "3600000 Beauty",
-        "packageName": "eu.kanade.tachiyomi.extension.all.beauty3600000",
-        "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/e3c3a48/tachiyomi-all.beauty3600000-v1.6.7.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/beauty3600000/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/e3c3a48/tachiyomi-all.beauty3600000-v1.6.7.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "5498091984644576825",
-            "name": "3600000 Beauty",
-            "language": "all",
-            "homeUrl": "https://3600000.xyz"
-          }
-        ]
-      },
-      {
         "name": "Buon Dua",
         "packageName": "eu.kanade.tachiyomi.extension.all.buondua",
         "resources": {
