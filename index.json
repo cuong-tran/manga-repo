@@ -694,13 +694,13 @@
         "name": "DeviantArt",
         "packageName": "eu.kanade.tachiyomi.extension.all.deviantart",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.deviantart-v1.4.11.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/5f3f02d/tachiyomi-all.deviantart-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/deviantart/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f7d844c-0/tachiyomi-all.deviantart-v1.4.11.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/5f3f02d/tachiyomi-all.deviantart-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104011",
-        "versionName": "1.4.11",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
