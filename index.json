@@ -14601,13 +14601,13 @@
         "name": "Madokami",
         "packageName": "eu.kanade.tachiyomi.extension.en.madokami",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/42388c6-1/tachiyomi-en.madokami-v1.6.20.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/d6b6265/tachiyomi-en.madokami-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/madokami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/42388c6-1/tachiyomi-en.madokami-v1.6.20.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/d6b6265/tachiyomi-en.madokami-v1.6.21.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106020",
-        "versionName": "1.6.20",
+        "versionCode": "106021",
+        "versionName": "1.6.21",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25343,13 +25343,13 @@
         "name": "VoraToon",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/42388c6-2/tachiyomi-id.komikcast-v1.6.90.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/d6b6265/tachiyomi-id.komikcast-v1.6.91.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/id/voratoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/42388c6-2/tachiyomi-id.komikcast-v1.6.90.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/d6b6265/tachiyomi-id.komikcast-v1.6.91.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106090",
-        "versionName": "1.6.90",
+        "versionCode": "106091",
+        "versionName": "1.6.91",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
