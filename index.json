@@ -1993,13 +1993,13 @@
         "name": "3Hentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentai3",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/42388c6-0/tachiyomi-all.hentai3-v1.6.7.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/520ed9c/tachiyomi-all.hentai3-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/hentai3/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/42388c6-0/tachiyomi-all.hentai3-v1.6.7.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/520ed9c/tachiyomi-all.hentai3-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
