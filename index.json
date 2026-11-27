@@ -10507,13 +10507,13 @@
         "name": "Arabs Hentai",
         "packageName": "eu.kanade.tachiyomi.extension.ar.arabshentai",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/dc4572c-0/tachiyomi-ar.arabshentai-v1.6.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-ar.arabshentai-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ar/arabshentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/dc4572c-0/tachiyomi-ar.arabshentai-v1.6.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-ar.arabshentai-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -20855,20 +20855,20 @@
         "name": "Siren Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.sirenscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/dc4572c-1/tachiyomi-en.sirenscans-v1.6.28.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-en.sirenscans-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/sirenscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/dc4572c-1/tachiyomi-en.sirenscans-v1.6.28.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-en.sirenscans-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106028",
-        "versionName": "1.6.28",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5804710058654490234",
             "name": "Siren Scans",
             "language": "en",
-            "homeUrl": "https://sirenscans.com"
+            "homeUrl": "https://sirenscans.net"
           }
         ]
       },
@@ -24038,13 +24038,13 @@
         "name": "Mangas.in",
         "packageName": "eu.kanade.tachiyomi.extension.es.mangasin",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f29aac3/tachiyomi-es.mangasin-v1.6.5.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-es.mangasin-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/es/mangasin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f29aac3/tachiyomi-es.mangasin-v1.6.5.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-es.mangasin-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -35392,13 +35392,13 @@
         "name": "XXX Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ef9067f/tachiyomi-pt.xxxyaoi-v1.6.76.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-pt.xxxyaoi-v1.6.77.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ef9067f/tachiyomi-pt.xxxyaoi-v1.6.76.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-pt.xxxyaoi-v1.6.77.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106076",
-        "versionName": "1.6.76",
+        "versionCode": "106077",
+        "versionName": "1.6.77",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -41663,13 +41663,13 @@
         "name": "Dumanwu",
         "packageName": "eu.kanade.tachiyomi.extension.zh.dumanwu",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/dc4572c-3/tachiyomi-zh.dumanwu-v1.6.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-zh.dumanwu-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/zh/dumanwu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/dc4572c-3/tachiyomi-zh.dumanwu-v1.6.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-zh.dumanwu-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -42700,13 +42700,13 @@
         "name": "Rumanhua",
         "packageName": "eu.kanade.tachiyomi.extension.zh.rumanhua",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/dc4572c-3/tachiyomi-zh.rumanhua-v1.6.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-zh.rumanhua-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/zh/rumanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/dc4572c-3/tachiyomi-zh.rumanhua-v1.6.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/54556b1/tachiyomi-zh.rumanhua-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
